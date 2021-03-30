@@ -1,0 +1,202 @@
+body
+{
+	margin:0;
+	padding:0;
+	font-family:Segoe UI,Bookman,Georgia,serif;
+}
+
+.top
+{
+	background-color:000d2e;
+	height:90px;
+	width:100%;
+}
+
+.center
+{
+	background-color:e5e5ff;
+	width:100%;
+	height:500px;
+}
+
+.bottom
+{
+	background-color:000d2e;
+	height:30px;
+	width:100%;
+	text-align:right;
+}
+
+.image
+{
+	width:47%;
+	float:left;
+}
+
+.signup
+{
+	float:right;
+	width:47%;
+}
+
+.logo
+{
+	height:90px;
+	width:30%;
+	float:left;
+}
+
+.login
+{
+	color:white;
+	width:40%;
+	height:70px;
+	float:right;
+	margin-top:20px;
+}
+
+input[type=text]
+{
+	border:1px solid black;
+	margin-top:5px;
+	width:150px;
+	padding-left:10px;
+	height:25px;
+	border-radius:3px;
+}
+
+input[type=password]
+{
+	border:1px solid black;
+	margin-top:5px;
+	width:150px;
+	padding-left:10px;
+	height:25px;
+	border-radius:3px;
+}
+
+input[type=submit]
+{
+	background-color:blue;
+	border:none;
+	border-radius:3px;
+	color:white;
+	padding:4px 10px;
+	cursor:pointer;
+}
+
+input#fname
+{
+	border:1px solid black;
+	margin-top:5px;
+	width:200px;
+	padding-left:10px;
+	height:40px;
+	border-radius:3px;
+	font-size:20px;
+}
+
+input#lname
+{
+	border:1px solid black;
+	margin-top:5px;
+	width:200px;
+	padding-left:10px;
+	height:40px;
+	border-radius:3px;
+	font-size:20px;
+}
+
+input#mail
+{
+	border:1px solid black;
+	margin-top:5px;
+	width:418px;
+	padding-left:10px;
+	height:40px;
+	border-radius:3px;
+	font-size:20px;
+}
+
+input#new_pass
+{
+	border:1px solid black;
+	margin-top:5px;
+	width:200px;
+	padding-left:10px;
+	height:40px;
+	border-radius:3px;
+	font-size:20px;
+}
+
+input#re_pass
+{
+	border:1px solid black;
+	margin-top:5px;
+	width:200px;
+	padding-left:10px;
+	height:40px;
+	border-radius:3px;
+	font-size:20px;
+}
+
+input#day
+{
+	border:1px solid black;
+	margin-top:5px;
+	width:100px;
+	padding-left:10px;
+	height:30px;
+	border-radius:3px;
+	font-size:15px;
+}
+
+input#month
+{
+	border:1px solid black;
+	margin-top:5px;
+	width:100px;
+	padding-left:10px;
+	height:30px;
+	border-radius:3px;
+	font-size:15px;
+}
+
+input#year
+{
+	border:1px solid black;
+	margin-top:5px;
+	width:100px;
+	padding-left:10px;
+	height:30px;
+	border-radius:3px;
+	font-size:15px;
+}
+
+input#signup
+{
+	background-color:198c19;
+	border:none;
+	border-radius:6px;
+	color:e5e5e5;
+	padding:8px 18px;
+	cursor:pointer;
+	text-align:center;
+	font-size:25px;
+}
+
+p1
+{
+	font-size:40px;
+}
+
+p2
+{
+	font-size:20px;
+}
+
+p3
+{
+	color:cccccc;
+	font-size:15px;
+}

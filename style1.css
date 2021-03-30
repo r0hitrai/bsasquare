@@ -1,0 +1,282 @@
+body
+{
+	margin:0;
+	padding:0;
+	font-family:Segoe UI,Bookman,Georgia,serif;
+}
+
+.top
+{
+	background-color:000d2e;
+	height:50px;
+	width:100%;
+}
+
+.logo
+{
+	height:50px;
+	width:15%;
+	float:left;
+}
+
+.logout
+{
+	width:10%;
+	height:35px;
+	float:right;
+	padding-top:15px;
+}
+
+.options
+{
+	width:40%;
+	height:50px;
+	float:left;
+}
+
+.search
+{
+	width:35%;
+	height:35px;
+	float:left;
+	padding-top:15px;
+}
+
+.center
+{
+	background-color:e5e5ff;
+	width:100%;
+	height:100%;
+}
+
+.left
+{
+	width:25%;
+	height:400px;
+	float:left;
+}
+
+.middle
+{
+	width:45%;
+	height:400px;
+	float:left;
+}
+
+.right
+{
+	background-color:yellow;
+	width:25%;
+	height:400px;
+	float:right;
+}
+
+.il
+{
+	width:50%;
+	height:100%;
+	float:right;
+}
+
+button#logout
+{
+	background-color:blue;
+	border:none;
+	border-radius:3px;
+	color:white;
+	padding:4px 10px;
+	cursor:pointer;
+	font-size:15px;
+}
+
+input#search
+{
+	border:1px solid black;
+	width:340px;
+	padding-left:10px;
+	height:25px;
+	border-radius:3px;
+	font-size:15px;
+}
+
+input#search_button
+{
+	background-color:blue;
+	border:none;
+	border-radius:3px;
+	color:white;
+	padding:4px 10px;
+	cursor:pointer;
+}
+
+input#feed
+{
+	border:2px solid black;
+	width:680px;
+	height:150px;
+}
+
+input#post
+{
+	background-color:blue;
+	border:none;
+	border-radius:3px;
+	color:white;
+	padding:4px 10px;
+	cursor:pointer;
+	font-size:15px;
+}
+
+
+div#frl
+{
+	margin-top:12px;
+	margin-right:15px;
+	float:right;
+}
+
+div#ml
+{
+	margin-top:12;
+	margin-right:15;
+	float:right;
+}
+
+div#nl
+{
+	margin-top:12;
+	margin-right:30;
+	float:right;
+}
+
+div#pp
+{
+	margin-top:12;
+	margin-right:10;
+	float:right;
+}
+
+div#un
+{
+	margin-top:12;
+	margin-right:50;
+	float:right;
+}
+
+div#lui
+{
+	margin-top:10;
+	float:left;
+}
+
+div#ln
+{
+	margin-top:15;
+	margin-left:10;
+	float:left;
+}
+
+div#nfn
+{
+	margin-top:5;
+	margin-left:10;
+	float:left;
+}
+
+div#nsf
+{
+	float:left;
+}
+
+div#lnn
+{
+	margin-top:5;
+	margin-left:10;
+	float:left;
+}
+
+div#lnl
+{
+	margin-right:;
+	float:left;
+}
+
+div#lml
+{
+	float:left;
+}
+
+div#lmn
+{
+	margin-left:10;
+	float:left;
+}
+
+div#feed
+{
+	background-color:white;
+	margin-top:20;
+	padding-top:10;
+	padding-left:10;
+	padding-bottom:30;
+}
+
+div#sr
+{
+	background-color:white;
+	width:100%;
+	height:100%;
+}
+
+div#post
+{
+	background-color:white;
+	margin-top:10;
+	padding-bottom:10;
+}
+
+div#cp
+{
+	background-color:#cccccc;
+	color:#323232;
+	font-weight:bold;
+	margin-bottom:10;
+}
+
+textarea
+{
+	width:593;
+	height:100;
+	margin:10;
+}
+
+p1
+{
+	color:white;
+}
+
+p2
+{
+	color:black;
+}
+
+a:link
+{
+	text-decoration:none;
+}
+
+a:visited
+{
+	text-decoration:none;
+}
+
+a:hover
+{
+	text-decoration:none;
+	background-color:blue;
+}
+
+a:active
+{
+	text-decoration:none;
+}
